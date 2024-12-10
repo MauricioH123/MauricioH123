@@ -22,7 +22,7 @@ Soy **Ingeniero Industrial** y desarrollador con experiencia en **PHP**, **JavaS
 - **Tecnologías**: Laravel, JavaScript, Figma, Canva.
 
 ## 👨‍💻 ¡En continuo aprendizaje y desarrollo!
-![Person programming](https://cdn-icons-png.flaticon.com/512/2922/2922562.png)
+![GitHub Octocat](https://github.githubassets.com/images/mona-whisper.gif)
 
 ## 📫 Contáctame:
 - [LinkedIn](https://www.linkedin.com/in/mauricio-andres-hernández-lopez-a709221ab)
