@@ -22,7 +22,7 @@ Soy **Ingeniero Industrial** y desarrollador con experiencia en **PHP**, **JavaS
 - **Tecnologías**: Laravel, JavaScript, Figma, Canva.
 
 ## 👨‍💻 ¡En continuo aprendizaje y desarrollo!
-![GitHub Octocat](https://octodex.github.com/images/NUX_Octodex.gif)
+![NUX Octodex](https://octodex.github.com/images/NUX_Octodex.gif)
 
 ## 📫 Contáctame:
 - [LinkedIn](https://www.linkedin.com/in/mauricio-andres-hernández-lopez-a709221ab)
