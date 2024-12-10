@@ -21,8 +21,8 @@ Soy **Ingeniero Industrial** y desarrollador con experiencia en **PHP**, **JavaS
 - **Descripción**: Plataforma web para el desarrollo de la industria del cacao en Colombia.
 - **Tecnologías**: Laravel, JavaScript, Figma, Canva.
 
-## 📈 Estadísticas de GitHub:
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=radical)
+## 👨‍💻 ¡En continuo aprendizaje y desarrollo!
+![Person programming](https://cdn-icons-png.flaticon.com/512/2922/2922562.png)
 
 ## 📫 Contáctame:
 - [LinkedIn](https://www.linkedin.com/in/mauricio-andres-hernández-lopez-a709221ab)
