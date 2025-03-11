@@ -2,8 +2,13 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2196F3&center=true&width=600&lines=Ingeniero+Industrial;Desarrollador+Web;Analista+de+Datos" alt="Typing SVG" />
 </div>
+
 Soy Ingeniero Industrial y desarrollador con experiencia en PHP, JavaScript, Bases de datos, Power BI, y más. Mi objetivo es crear soluciones eficientes para mejorar los procesos de las empresas y ayudar en la toma de decisiones a través de la tecnología.
-Habilidades Técnicas:
+
+### 🌐 Mi Portafolio  
+🔗 [Visita mi portafolio aquí](https://portfolio-mau-beta.vercel.app/)
+
+## 🛠️ Habilidades Técnicas:
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -15,32 +20,31 @@ Habilidades Técnicas:
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
- <h1>🛠️ Proyectos Destacados:</h1>
-<h2>🌱  Green Food Market </h2>
 
+## 🏆 Proyectos Destacados:
 
-Descripción: Aplicación web para la gestión comercial de una empresa de productos saludables.
-Tecnologías: PHP, JavaScript, Bootstrap, MVC, DAO.
+### 🌱 Green Food Market  
+**Descripción:** Aplicación web para la gestión comercial de una empresa de productos saludables.  
+**Tecnologías:** PHP, JavaScript, Bootstrap, MVC, DAO.
 
-<h2>🎓 Predicción Académica en Excel</h2>
+### 🎓 Predicción Académica en Excel  
+**Descripción:** Matrices inteligentes para predecir deserción universitaria y otorgar becas a estudiantes destacados.  
+**Tecnologías:** Excel, Fórmulas avanzadas, Dashboards.
 
+### 🍫 Aplicación Web para Promoción del Cacao  
+**Descripción:** Plataforma web para el desarrollo de la industria del cacao en Colombia.  
+**Tecnologías:** Laravel, JavaScript, Figma, Canva.
 
-Descripción: Matrices inteligentes para predecir deserción universitaria y otorgar becas a estudiantes destacados.
-Tecnologías: Excel, Fórmulas avanzadas, Dashboards.
+<p>💻💻 ¡En continuo aprendizaje y desarrollo!</p>
 
- <h2>🍫 Aplicación Web para Promoción del Cacao</h2>
-
-Descripción: Plataforma web para el desarrollo de la industria del cacao en Colombia.
-Tecnologías: Laravel, JavaScript, Figma, Canva.
-
- <p>💻💻 ¡En continuo aprendizaje y desarrollo!</p>
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="550">
 <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=mauriciohernandez&show_icons=true&theme=blue&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mauriciohernandez&theme=blue&hide_border=true" alt="GitHub Streak" />
 </div>
- <h2>✉️ Contáctame:</h2>
+
+## ✉️ Contáctame:
 <div align="center">
   <a href="https://www.linkedin.com/in/mauricio-andres-hernández-lopez-a709221ab">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -49,8 +53,12 @@ Tecnologías: Laravel, JavaScript, Figma, Canva.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mauriciohernandez&color=blue&style=flat" alt="Profile views" />
 </div>
+
 <!-- Animación de snake para contribuciones -->
-<cenetr><img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /></cenetr>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
